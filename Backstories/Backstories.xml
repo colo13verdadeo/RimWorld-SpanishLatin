@@ -2692,7 +2692,7 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>[PAWN_nameDef] era un mercenario obsesionado por la tecnología en un sistema de era de fusión temprana. [PAWN_pronoun] estaba inusualmente obsesionado con la recolección del equipo adecuado, ya menudo personalizaba su propio equipo con modificaciones originales.</desc>
 	</BattleMechanic79>
 	<VideoGamer94>
-		<title>Videojugador</title>
+		<title>AntiSocial</title>
 		<titleShort>Jugador</titleShort>
 		<desc>[PAWN_nameDef] creció en un mundo medio, la mayoría encerrado en su cuarto, jugando videojuegos. [PAWN_pronoun] era cálido de corazón, con un profundo cariño por los animales. A medida que creció, se dirigió a las drogas para realzar su realidad. Durante estos tiempos difíciles encontró pasión y refugio en el gimnasio.</desc>
 	</VideoGamer94>
@@ -2717,7 +2717,7 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>[PAWN_nameDef] estudió química y mecánica cuántica para el entretenimiento. [PAWN_pronoun] era muy bueno en convencer a otros de hacer su trabajo físico, y lo convirtió en un objetivo en la vida para evitar el trabajo manual.</desc>
 	</Student1>
 	<Chemist38>
-		<title>Químico</title>
+		<title>Ingeniero Químico</title>
 		<titleShort>Químico</titleShort>
 		<desc>[PAWN_nameDef] fue un químico investigador. [PAWN_pronoun] trabajó con productos químicos, desde fármacos hasta explosivos, para desarrollar nuevas sustancias y tratamientos.</desc>
 	</Chemist38>
@@ -2727,8 +2727,8 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>[PAWN_nameDef] nació en una familia nómada de comerciantes de caravanas en un mundo llano. [PAWN_possessive] padre, el líder de la caravana, le enseñó el comercio de caravanas. Debido a que era capaz de hacer trueques o cazar toda su comida, nunca tuvo que preocuparse por hacer ningún trabajo en la granja. Más tarde, su padre se retiró a una granja y ofreció a [PAWN_nameDef] la posición de líder de la caravana.</desc>
 	</CaravanTraveler8>
 	<Caravaneer75>
-		<title>Caravaneador</title>
-		<titleShort>Caravaneador</titleShort>
+		<title>Lider de mercaderes</title>
+		<titleShort>Mercador</titleShort>
 		<desc>[PAWN_nameDef] era el líder de una caravana nómada. Era su deber negociar acuerdos comerciales y asegurar la seguridad de su caravana contra bandoleros y salteadores. Se convirtió en un maestro en la gestión de mercancías, trazando rutas, y hacer buenas ofertas.</desc>
 	</Caravaneer75>
 	<SuperSoldier19>
@@ -2767,8 +2767,8 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>Nacido en un mundo asolado por la peste, ambos padres de [PAWN_nameDef] eran médicos. [PAWN_nameDef] fue levantado en cuarentena inversa, bajo el juramento hipocrático. [PAWN_pronoun] experimentó poca interacción social. Sin embargo, ganó mucha experiencia médica ayudando en tratamientos.</desc>
 	</PlagueChild8>
 	<PlagueDoctor99>
-		<title>Doctor plaga</title>
-		<titleShort>Doctor</titleShort>
+		<title>Erradicador de plagas</title>
+		<titleShort>Erradicador</titleShort>
 		<desc>[PAWN_nameDef] brindó atención médica en múltiples mundos plagados de pestes, siempre trabajando bajo el juramento hipocrático. [PAWN_pronoun] mejoró las condiciones para aquellos bajo cuarentena mientras administraban tratamientos médicos complejos y desarrollaban medicamentos. [PAWN_pronoun] nunca tuvo tiempo para disfrutar de una vida normal fuera del trabajo.</desc>
 	</PlagueDoctor99>
 	<YoungMaster70>
@@ -2787,12 +2787,12 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>Nacido en una familia de comerciantes ambulantes, [PAWN_nameDef] fue mentorado por su padre en las formas de ser un comerciante. [PAWN_pronoun] fue a menudo encargado de cuidar de los animales de carga. Debido a su estilo de vida nómada, él cazó e intercambió para obtener comida.</desc>
 	</CaravanTraveler5>
 	<Caravaneer77>
-		<title>Caravaneador</title>
-		<titleShort>Caravaneador</titleShort>
+		<title>Lider de caravanas</title>
+		<titleShort>LiderComerciante</titleShort>
 		<desc>[PAWN_nameDef] era el líder de una caravana. [PAWN_pronoun] era responsable de la seguridad de su caravana y era el negociador principal en innumerables acuerdos comerciales. [PAWN_pronoun] y su gente prosperaron, pero su riqueza los convirtió en un blanco para los bandoleros. A menudo tenían que tomar las armas para defenderse de bandidos y bandoleros.</desc>
 	</Caravaneer77>
 	<FarmersSon51>
-		<title>Hijo de granjero</title>
+		<title>Hijo de granjeros</title>
 		<titleShort>Granjero</titleShort>
 		<desc>Ade pasó gran parte de su infancia aprendiendo el cultivo en biomas. En su bioma, retenían animales para investigar cuáles se desenvolverían mejor en un entorno alienígena. Por esto, las restricciones de viaje y racionamiento de oxígeno, él rara vez pudo conocer a alguien fuera de su familia.</desc>
 	</FarmersSon51>
@@ -2807,7 +2807,7 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>[PAWN_nameDef] nació en un MundoBrillante rico. [PAWN_pronoun] estudió en la Escuela de Ingeniería de Caspian, y se destacó en matemáticas y programación de computadoras. [PAWN_nameDef] creció en ambientes limpios y estériles. [PAWN_pronoun] nunca vio una granja o ganado.</desc>
 	</WealthyStudent21>
 	<Roboticist20>
-		<title>Robotista </title>
+		<title>Robotista</title>
 		<titleShort>Robotista</titleShort>
 		<desc>[PAWN_nameDef] se sentía más cómodo con los robots y las inteligencias artificiales que con las personas orgánicas, por lo que trabajó como robotista. [PAWN_pronoun] tomó un interés particular en los mechanites y en la tecnología antigua. [PAWN_nameDef] confió en otras personas para suplir sus necesidades básicas.</desc>
 	</Roboticist20>
@@ -2834,7 +2834,7 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 	</SpaceBartender52>
 	<SpoiledChild65>
 		<title>Niño mimado</title>
-		<titleShort>Mimado</titleShort>
+		<titleShort>SinCalle</titleShort>
 		<desc>[PAWN_nameDef] era hijo de un industrioso ingeniero espacial. Los padres de [PAWN_possessive] prohibieron la mayoría de las tareas manuales y peligrosas, por lo que aprendió arte y música. [PAWN_pronoun] amaba a los animales, pero sus padres nunca le permitieron tener una mascota, aunque jugaba mucho con las mascotas de otras personas.</desc>
 	</SpoiledChild65>
 	<CosmeticSurgeon52>
@@ -2844,7 +2844,7 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 	</CosmeticSurgeon52>
 	<Philosopher26>
 		<title>Filósofo</title>
-		<titleShort>Pensador</titleShort>
+		<titleShort>Filosofante</titleShort>
 		<desc>[PAWN_nameDef] era un estudiante en un MundoBrillante. [PAWN_pronoun] tuvo dificultades en la escuela, ya que los otros niños lo consideraron bastante extraño. [PAWN_pronoun] siempre mantuvo una distancia de estos eventos, siendo continuamente sorprendido por las muchas formas interesantes e incómodas que puede llevar la vida.</desc>
 	</Philosopher26>
 	<UprightDiplomat83>
@@ -2880,10 +2880,10 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 	<PirateSympathizer24>
 		<title>Simpatizante pirata</title>
 		<titleShort>Pirata</titleShort>
-		<desc>Desde su juventud, [PAWN_nameDef] desarrolló conexiones en el bajo mundo. Allí se entrenó en combates cuerpo a cuerpo y se convirtió en una asesora confianza del mundo terrenal. Después de participar en una rebelión fallida, huyó de su planeta natal para viajar con una banda de piratas.</desc>
+		<desc>Desde su juventud, [PAWN_nameDef] desarrolló conexiones en el mundo en desarrollo (pobre). Allí se entrenó en combates cuerpo a cuerpo y se convirtió en una asesora confianza del mundo terrenal. Después de participar en una rebelión fallida, huyó de su planeta natal para viajar con una banda de piratas.</desc>
 	</PirateSympathizer24>
 	<PlagueSurvivor48>
-		<title>Sobreviviente de la plaga</title>
+		<title>Sobreviviente de la epidermia</title>
 		<titleShort>Sobreviviente</titleShort>
 		<desc>[PAWN_nameDef] vio como una misteriosa plaga se extendía por su ciudad, matando a su familia y amigos. [PAWN_pronoun] aprendió algo de medicina observando a los doctores de la peste, pero quedó mentalmente marcado por la dura prueba.</desc>
 	</PlagueSurvivor48>
@@ -2893,13 +2893,13 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>[PAWN_nameDef] se convirtió en médico para salvar vidas e investigar medicina. [PAWN_pronoun] pronto se dio cuenta de que la única manera de avanzar en su investigación era realizar experimentos en pacientes humanos. [PAWN_pronoun] a menudo usaba pacientes para sus experimentos, ya sea que estuvieran dispuestos o no.</desc>
 	</UnethicalDoctor97>
 	<OffworldRecruit22>
-		<title>Recluta de Offworld</title>
+		<title>Recluta de otro mundo</title>
 		<titleShort>Recluta</titleShort>
-		<desc>[PAWN_nameDef] nació y creció en una instalación de cultivo de soldados del otro mundo. Desde una edad muy temprana, le enseñaron tácticas de combate cuerpo a cuerpo, agresión y cómo sobrevivir en planetas distantes. Uno de los mejores, [PAWN_nameDef] finalmente eligió ingresar al cuerpo de tropas de choque de despliegue orbital.</desc>
+		<desc>[PAWN_nameDef] nació y creció en una instalación de formacion para soldados de otro mundo. Desde su muy temprana edad, le enseñaron tácticas de combate cuerpo a cuerpo, agresión y cómo sobrevivir en planetas distantes. Uno de los mejores, [PAWN_nameDef] finalmente eligió ingresar al cuerpo de tropas de choque de despliegue orbital.</desc>
 	</OffworldRecruit22>
 	<ShockTrooper52>
-		<title>Tropa de choque</title>
-		<titleShort>Tropadechoque</titleShort>
+		<title>Ex combatiente</title>
+		<titleShort>ExCombatiente</titleShort>
 		<desc>[PAWN_nameDef] estaba en una unidad de choque del espacio profundo desplegada en varios planetas en varias guerras. Durante un asalto arriesgado, su unidad entera fue aniquilada. Nadie más sabía lo que sucedió en el campo ese día, pero [PAWN_nameDef] llevará esa carga para siempre....</desc>
 	</ShockTrooper52>
 	<ProdigalStudent39>
@@ -2998,7 +2998,7 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>[PAWN_nameDef] creció en un RimWorld, bajo la tiranía de su padre, que lo obligó a trabajar todos los días en la granja. Soñaba con escapar de su padre y explorar el universo. Un día, cuando la nave mercante estaba sobre sus cabezas, se escondió entre las mercancías en las plataformas de lanzamiento y escapó al espacio.</desc>
 	</CowFarmer93>
 	<MasterChef6>
-		<title>Master chef</title>
+		<title>Masterchef</title>
 		<titleShort>Chef</titleShort>
 		<desc>En un MundosBrillante, [PAWN_nameDef] encontró un trabajo lavando platos en un famoso restaurante y trabajó HACIA SU MEJOR rango. Unos años más tarde, su carrera llegó a su fin cuando alguien envenenó la comida que estaba preparando para el alcalde. Desempleado, se fue para explorar las estrellas una vez más.</desc>
 	</MasterChef6>
@@ -3043,8 +3043,8 @@ Cuando [PAWN_pronoun] se negó a limpiar la suciedad de los gatos, [PAWN_pronoun
 		<desc>Años de ser oficial al mando de una corbeta avanzada le enseñaron a [PAWN_nameDef] el arte del liderazgo, las técnicas de la ingeniería avanzada y cómo mantener la calma mientras los enemigos intentan matarte. Desafortunadamente, [PAWN_nameDef] muy rara vez tuvo contacto con la naturaleza.</desc>
 	</WarshipCaptain77>
 	<Punk70>
-		<title>Punk</title>
-		<titleShort>Punk</titleShort>
+		<title>Mercader ambulante</title>
+		<titleShort>Mercader</titleShort>
 		<desc>[PAWN_nameDef] pasó su infancia vendiendo cigarrillos a los 15 años de edad. Los cigarrillos a menudo estaban llenos de recortes de hierba.</desc>
 	</Punk70>
 	<GameDeveloper59>
