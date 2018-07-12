@@ -1,5 +1,4 @@
 ﻿//Terminación en vocal para poder coordinar con terminación plral (S). (Guadaña-s, Lanza-s, Cohete-s).
-
 cuchillo
 espada
 látigo
@@ -31,7 +30,6 @@ pica
 lanza
 maza
 jabalina
-
 dardo
 flecha
 pistola
