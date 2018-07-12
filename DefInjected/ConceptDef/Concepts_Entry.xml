@@ -4,6 +4,6 @@
   <!-- Concepts taught in the entry screens -->
 
   <WorldCameraMovement.label>Uso de la cámara</WorldCameraMovement.label>
-  <WorldCameraMovement.helpText>Zoom con la rueda del ratón o {Key:MapZoom_In} y {Key:MapZoom_Out} teclas.\n\nCon el menú de {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} teclas, o por MIDDLE-CLICKING and DRAGGING.</WorldCameraMovement.helpText>
+  <WorldCameraMovement.helpText>Zoom con la rueda del ratón o {Key:MapZoom_In} y {Key:MapZoom_Out} teclas.\n\nCon el menú de {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} teclas, o por boton del medio y arrastrar.</WorldCameraMovement.helpText>
   
 </LanguageData>
