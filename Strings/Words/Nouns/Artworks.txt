@@ -17,7 +17,6 @@ novela
 oda
 prosa
 rima
-
 calamidad
 acción
 salsa
