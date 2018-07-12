@@ -1,7 +1,7 @@
-﻿póker
+poquer
 ajedrez
 barajas
-backgammon
+tablas real
 dados
 damas inglesas
 ruleta
